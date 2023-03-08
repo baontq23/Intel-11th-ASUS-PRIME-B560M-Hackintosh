@@ -1,16 +1,16 @@
-# ASUS-PRIME-B560M-A-Hackintosh
-Hackintosh Asus Prime B560M-A + I5-10400 + RX5600XT
+# Intel-11th-ASUS-PRIME-B560M-A-Hackintosh
+Hackintosh Asus Prime B560M-A + I5-11400 + RX5600XT
 
 <p align="center">
     <a href="https://www.apple.com/macos/monterey/">
-        <img src="https://img.shields.io/badge/Monterey-12.6-purple"></a>
+        <img src="https://img.shields.io/badge/Monterey-12.6.3-purple"></a>
     <a href="https://github.com/acidanthera/OpenCorePkg">
-        <img src="https://img.shields.io/badge/OpenCore-0.8.8-blue"/></a>
+        <img src="https://img.shields.io/badge/OpenCore-0.9.0-blue"/></a>
 </p>
 
 <p align="center">
     <a href="">
-        <img src="https://i.imgur.com/dbjjcw8.png" alt="B560M Hackintosh"> </a>
+        <img src="https://i.imgur.com/3QbbnaG.png" alt="B560M Hackintosh"> </a>
 </p>
 
 # Features
@@ -30,9 +30,9 @@ Hackintosh Asus Prime B560M-A + I5-10400 + RX5600XT
 
 | Category  | ASUS-PRIME-B560M-A       |
 | --------- | ------------------------ |
-| CPU       | Intel Core i5-10400      |
-| SSD       | Samsung 970 EVO PLUS 1TB    |
-| RAM       | 16GB DDR4 2666 Mhz       |
+| CPU       | Intel Core i5-11400      |
+| SSD       | Western Digital Black SN750 500GB    |
+| RAM       | 16GB DDR4 3200 Mhz       |
 | AUDIO     | ALC897      |
 | LAN       | Intel I219-V      |
 | GPU       | SAPPHIRE PULSE RX 5600 XT 6GB |

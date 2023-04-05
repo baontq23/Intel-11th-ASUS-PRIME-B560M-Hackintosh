@@ -247,7 +247,7 @@
                     <key>BundlePath</key>
                     <string>USBInjectAll.kext</string>
                     <key>Comment</key>
-                    <string>V0.7.6 | USBInjectAll.kext</string>
+                    <string>V0.8.0 | USBInjectAll.kext</string>
                     <key>Enabled</key>
                     <false/>
                     <key>ExecutablePath</key>
@@ -301,7 +301,7 @@
                     <key>BundlePath</key>
                     <string>VirtualSMC.kext</string>
                     <key>Comment</key>
-                    <string>V1.3.0</string>
+                    <string>V1.3.1</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -337,7 +337,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.8.0 | AppleALC.kext</string>
+                    <string>V1.8.1 | AppleALC.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -355,7 +355,7 @@
                     <key>BundlePath</key>
                     <string>SMCProcessor.kext</string>
                     <key>Comment</key>
-                    <string>V1.3.0 | SMCProcessor.kext</string>
+                    <string>V1.3.1 | SMCProcessor.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -373,7 +373,7 @@
                     <key>BundlePath</key>
                     <string>SMCSuperIO.kext</string>
                     <key>Comment</key>
-                    <string>V1.3.0 | SMCSuperIO.kext</string>
+                    <string>V1.3.1 | SMCSuperIO.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -628,7 +628,7 @@
                     <key>SystemAudioVolume</key>
                     <data>Rg==</data>
                     <key>boot-args</key>
-                    <string>-v keepsyms=1 debug=0x100 alcid=12 agdpmod=pikera unfairgva=1</string>
+                    <string>keepsyms=1 debug=0x100 alcid=12 agdpmod=pikera unfairgva=1</string>
                     <key>csr-active-config</key>
                     <data>/w8AAA==</data>
                     <key>prev-lang:kbd</key>
@@ -878,6 +878,8 @@
                 <key>DirectGopRendering</key>
                 <false/>
                 <key>ForceResolution</key>
+                <false/>
+                <key>GopBurstMode</key>
                 <false/>
                 <key>GopPassThrough</key>
                 <string>Disabled</string>

@@ -5,12 +5,12 @@ Hackintosh Asus Prime B560M-A + I5-11400 + RX5600XT
     <a href="https://www.apple.com/macos/monterey/">
         <img src="https://img.shields.io/badge/Monterey-12.6.3-purple"></a>
     <a href="https://github.com/acidanthera/OpenCorePkg">
-        <img src="https://img.shields.io/badge/OpenCore-0.9.0-blue"/></a>
+        <img src="https://img.shields.io/badge/OpenCore-0.9.3-blue"/></a>
 </p>
 
 <p align="center">
     <a href="">
-        <img src="https://i.imgur.com/3QbbnaG.png" alt="B560M Hackintosh"> </a>
+        <img src="https://i.imgur.com/hKzD5Ct.png" alt="B560M Hackintosh"> </a>
 </p>
 
 # Features
@@ -35,7 +35,7 @@ Hackintosh Asus Prime B560M-A + I5-11400 + RX5600XT
 | RAM       | 16GB DDR4 3200 Mhz       |
 | AUDIO     | ALC897      |
 | LAN       | Intel I219-V      |
-| GPU       | SAPPHIRE PULSE RX 5600 XT 6GB |
+| GPU       | GIGABYTE Radeon RX 6600 XT EAGLE 8GB |
 | WiFi & BT | BCM94360CS2   |
 
 ## Read these before you start:

@@ -1,5 +1,5 @@
 # Intel-11th-ASUS-PRIME-B560M-A-Hackintosh
-Hackintosh Asus Prime B560M-A + I5-11400 + RX5600XT
+Hackintosh Asus Prime B560M-A + I5-11400 + RX6600XT
 
 <p align="center">
     <a href="https://www.apple.com/macos/monterey/">
